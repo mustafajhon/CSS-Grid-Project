@@ -1,9 +1,9 @@
 import Home from "./Components/home/home";
-
+import Index from "./Components/home/home";
 function App() {
   return (
     <>
-      <Home />
+      <Index />
     </>
   );
 }

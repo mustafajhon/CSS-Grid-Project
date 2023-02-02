@@ -4,6 +4,7 @@ import img1 from "../assets/ReactLogo.png";
 import img2 from "../assets/fff.png";
 import img3 from "../assets/male.png";
 import img4 from "../assets/myImage.png";
+
 function Home() {
   return (
     <>
@@ -143,4 +144,17 @@ function Home() {
     </>
   );
 }
-export default Home;
+// export default Home;
+
+function Index() {
+  return (
+    <>
+      <div className="container">
+        <h1 className="text text-center">Css Grid</h1>
+      </div>
+      <Home />
+    </>
+  );
+}
+
+export default Index;
