@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# F1_CSS-Grid-Project
+# CSS-Grid-Project
 
 ## Available Scripts
 
@@ -18,3 +18,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+# #1 February
